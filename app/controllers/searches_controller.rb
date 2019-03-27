@@ -1,10 +1,10 @@
-# class SearchesController < ApplicationController
-#   def search
-#   end
-#
-#   def foursquare
-#   end
-# end
+class SearchesController < ApplicationController
+  def search
+  end
+
+  def foursquare
+  end
+end
 
 # searches_controller.rb
   def foursquare
